@@ -1,0 +1,2 @@
+Objectives:
+- Own x technologies of x colors: applies to OWNED technologies, not PURCHASED, so the starting technologies do count towards this objective
